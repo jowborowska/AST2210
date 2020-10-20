@@ -1,4 +1,6 @@
 # AST2210
-DIFFRACTION OF LIGHT AS A LIMITING FACTOR FOR TELESCOPES’ ANGULAR RESOLUTION ON THE EXAMPLE OF JAMES WEBB SPACE TELESCOPE\
-APPLICATION OF CHARGE-COUPLED DEVICES IN ASTRONOMICAL IMAGING AND DATA PREPROCESSING\
-ANALYSIS AND MODELING OF COSMIC MICROWAVE BACKGROUND RADIATION BASED ON FOUR-YEAR COBE-DMR DATA
+Difraction of light as a limiting factor for telescopes' angular resolution on the example of James Webb Space Telescope.\
+Application of charge-coupled devices in astronomical imaging and data preprocessing.\
+Analysis and modeling of Cosmic Microwave Background radiation based on four-year COBE-DMR data.
+
+
